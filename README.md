@@ -14,9 +14,14 @@ https://github.com/user-attachments/assets/cb6f66ab-ed4f-44d0-af44-049f5da6bf4c
   * Clip Model
   * Facebook Vitmae
   * Fast API
+* ReactJS - Frontend
+  * Redux
+  * Bootstrap
+  * Javascript
+  * Axios / Fetch API
 
 ## Usage 
-### To run the backend served in fastapi
+### 🚀 Running the Backend Server (Fast API)
 * Download all the code present in pythonscripts folder.
 * Download all the requirements mentioned in the pythonscripts folder.
 * Run all the python scripts parallely.
@@ -26,4 +31,11 @@ https://github.com/user-attachments/assets/cb6f66ab-ed4f-44d0-af44-049f5da6bf4c
 * Similarly run all the other .py scripts
 > This code runs the fastapi server for serving the api's we created.
 
-### To run the backend for website
+###  🚀 Running the Frontend Application
+* Install Dependencies  
+`npm install`
+This will install all required dependencies and create a node_modules folder along with a package-lock.json file.
+* Start the Application
+`npm run start`
+Runs the app in the development mode.\
+Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
