@@ -1,0 +1,23 @@
+.product-specification {
+    display: flex;
+    justify-content: space-between;
+    margin: 20px;
+}
+
+.specification-column {
+    width: 45%;
+}
+
+.specification-item {
+    display: flex;
+    justify-content: space-between;
+    padding: 5px 0;
+}
+
+.label {
+    font-weight: bold;
+}
+
+.value {
+    color: gray;
+}
