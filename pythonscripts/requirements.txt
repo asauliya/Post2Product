@@ -37,7 +37,7 @@ deprecation==2.1.0
 distlib==0.3.7
 distro==1.9.0
 dnspython==2.4.2
-dulwich==0.21.6
+dulwich==1.2.5
 email-validator==2.1.0.post1
 eval_type_backport==0.2.0
 eventlet==0.34.2
